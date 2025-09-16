@@ -1,0 +1,7 @@
+python-dotenv
+google-generativeai
+python-telegram-bot==20.*
+numpy
+scipy
+pandas
+pyarrow
